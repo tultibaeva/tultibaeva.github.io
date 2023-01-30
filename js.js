@@ -2,5 +2,5 @@
 const button = document.querySelector('button');
 
 button.addEventListener('click', function() {
-	alert('Найми меня и узнаешь!')
+	alert('Hire me to know it!')
 })
